@@ -12,6 +12,7 @@ namespace ConsoleApp1
         {
 
             Console.Write("ali");
+            Console.WriteLine("vahih");
             Console.ReadLine();
 
         }
