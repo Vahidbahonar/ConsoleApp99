@@ -14,6 +14,7 @@ namespace ConsoleApp1
             Console.Write("ali");
             Console.WriteLine("vahih");
             Console.WriteLine("اصغر");
+            Console.WriteLine("asas");
             Console.ReadLine();
 
         }
